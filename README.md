@@ -20,9 +20,6 @@ Since then, the bonus commission program has now been deprecated, but we have im
 We now run checks on commisson percentage errors, remove ineligible items from the subtotal that calculates a commision's percentage, and void orders that have been canceled for various reasons.
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
