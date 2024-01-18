@@ -3,12 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/MDeanLindsay/Share-A-Sale/">
-    <img src="images/sas.jpg" alt="Logo" height="100">
-  </a>
-
   <h3 align="center">Share A Sale Auditing</h3>
-
 </div>
 
 
@@ -47,7 +42,7 @@ Make sure you have venv installed.
    ```sh
    git clone https://github.com/MDeanLindsay/Share-A-Sale.git
    ```
-3. Initiate venv.
+3. Create virtual enviornment.
    ```sh
    python -m venv .venv
    ```
