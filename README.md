@@ -45,7 +45,7 @@ Make sure you have venv installed.
    ```
 4. Install requirements.
    ```py
-   pip install -requirements.txt
+   pip install -r requirements.txt
    ```
 4. Initiate venv.
    ```sh
