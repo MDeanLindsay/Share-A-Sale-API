@@ -48,7 +48,7 @@ Make sure you have venv installed.
    pip install -requirements.txt
    ```
 4. Initiate venv.
-   ```py
+   ```sh
    .\.venv\Scripts\activate
    ```
 
