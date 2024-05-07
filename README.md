@@ -40,13 +40,12 @@ We now run checks on commisson percentage errors, remove ineligible items from t
    ```sh
    python -m venv .venv
    ```
-4. Install requirements.
-   ```py
-   pip install -r requirements.txt
-   ```
 4. Initiate venv.
    ```sh
    .\.venv\Scripts\activate
    ```
-
+5. Install requirements.
+   ```py
+   pip install -r requirements.txt
+   ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
