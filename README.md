@@ -25,12 +25,9 @@ We now run checks on commisson percentage errors, remove ineligible items from t
 
 ### Prerequisites
 
-Make sure you have venv installed.
+* Python 3.9.6
 
-* venv
-  ```py
-  pip install venv
-  ```
+* Create a file named config.py file based on config_example.py
 
 ### Installation
 
